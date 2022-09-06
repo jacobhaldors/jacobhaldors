@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jacobhaldors
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me jacobhaldors@gmail.com
